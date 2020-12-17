@@ -44,5 +44,6 @@ target/*
 	
 	To display project name in eclipse project --> right click on project + team + share project + finish
 	To see git staging view --> Windows --> Show view --> others --> GIT --> git  staging
+	
 	 * */
 }
