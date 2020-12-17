@@ -21,6 +21,9 @@ public class Git {
 desktop.ini
 target/*
 
+
+
+
 	git add (* or File name) --> this will add it to the ready state.
 	git commit -m "message"
 	git config --global user.email "you@example.com"
@@ -30,6 +33,16 @@ target/*
 	
 	11:05AM PST
 	
-	Branch : master:
+	Branch : Master (default branch) --> you can also change it
+	git branch --> to list the branch
+	git branch <branchname> --> to create branch
+	git branch -D <branch name> --> to delete branch
+	
+	git checkout <branchname> --> to switch to another branch
+	
+	help --> Eclipse market place --> Search tab search for GIT --> 
+	
+	To display project name in eclipse project --> right click on project + team + share project + finish
+	To see git staging view --> Windows --> Show view --> others --> GIT --> git  staging
 	 * */
 }
